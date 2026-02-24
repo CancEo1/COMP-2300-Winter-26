@@ -10,7 +10,7 @@ tags:
 
 # Cody Kern
 
-## About
+## Op-ED
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
@@ -19,8 +19,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 ## Media sample
-
-![Moody hallway scene from a stock photo](https://images.unsplash.com/photo-1470770903676-69b98201ea1c?auto=format&fit=crop&w=1200&q=80){ .post-photo }
+https://www.dropbox.com/scl/fi/yz3u7ej4lxjngmvm22etj/Coding.jpg?rlkey=0nhyn5x8leb3e30ztlaujfpbw&st=t4v6dyxy&dl=0
 
 Photo credit: Unsplash
 
