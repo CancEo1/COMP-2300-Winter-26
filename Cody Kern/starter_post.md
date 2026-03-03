@@ -4,8 +4,9 @@ title: "AI: Hidden Opportunities"
 date: 2026-01-16
 publish: true
 tags:
-  - profile
-  - contributor
+  - AI
+  - Artificial Intelligence
+  - Opportunity
 ---
 
 # AI: Hidden Opportunities
